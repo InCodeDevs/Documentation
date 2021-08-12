@@ -8,5 +8,10 @@ Eigenschaften
 
 | Name              | Wert              | Benötigter Datentyp   |
 | ----              | ----              | --------------------- |
-| CSS-Eigenschaft   | width    | Nummer           |
+| CSS-Eigenschaft   | height    | Nummer           |
 | Mögliche Eingaben | Jede Mögliche Nummer | Nummer           |
+
+## Beispiel
+```
+Setze die Höhe von x auf 42
+```

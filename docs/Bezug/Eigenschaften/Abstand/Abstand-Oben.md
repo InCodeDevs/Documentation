@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | marginTop    | Number           |
 | Mögliche Eingaben | Jede Nummer | Number           |
+
+## Beispiel
+```
+Setze den Abstand-Oben von x auf 42
+```

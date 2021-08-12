@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | JS-Eigenschaft   | id    | String           |
 | Mögliche Eingaben | "JederMöglicheText" | String           |
+
+## Beispiel
+```
+Setze die Id von x auf "meineId"
+```

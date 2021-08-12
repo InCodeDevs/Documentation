@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | borderWidthRight    | Nummer           |
 | Mögliche Eingaben | Jede mögliche Nummer | Nummer           |
+
+## Beispiel
+```
+Setze die Umrandungsbreite-Rechts von x auf 42
+```

@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | marginRight    | Number           |
 | Mögliche Eingaben | Jede Nummer | Number           |
+
+## Beispiel
+```
+Setze den Abstand-Rechts von x auf 42
+```

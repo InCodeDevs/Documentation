@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | position    | InCode-Wert           |
 | Mögliche Eingaben | absolut, fest, relativ | InCode-Wert           |
+
+## Beispiel
+```
+Setze die Position von x auf absolut
+```

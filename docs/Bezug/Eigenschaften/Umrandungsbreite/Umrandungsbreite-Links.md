@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | borderWidthLeft    | Nummer           |
 | Mögliche Eingaben | Jede mögliche Nummer | Nummer           |
+
+## Beispiel
+```
+Setze die Umrandungsbreite-Links von x auf 42
+```

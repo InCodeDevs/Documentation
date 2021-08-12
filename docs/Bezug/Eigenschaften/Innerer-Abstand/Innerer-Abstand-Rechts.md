@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | paddingRight    | Number           |
 | Mögliche Eingaben | Jede Nummer | Number           |
+
+## Beispiel
+```
+Setze den Innerer-Abstand-Rechts von x auf 42
+```

@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | textDecoration         | InCode-Wert           |
 | Mögliche Eingaben | unterstrichen, überstichen, durchgestrichen, blink, nichts, unterstrichen-überstrichen | InCode-Wert           |
+
+## Beispiel
+```
+Setze den Schriftstil von x auf unterstrichen
+```

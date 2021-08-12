@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | borderWidthTop    | Nummer           |
 | Mögliche Eingaben | Jede mögliche Nummer | Nummer           |
+
+## Beispiel
+```
+Setze die Umrandungsbreite-Oben von x auf 42
+```

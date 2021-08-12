@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----                  | --------------------- |
 | JS-Eigenschaft    | innerText             | String                |
 | Mögliche Eingaben | "Jeder mögliche Text" | String                |
+
+## Beispiel
+```
+Setze den Text von x auf "Hallo Welt"
+```

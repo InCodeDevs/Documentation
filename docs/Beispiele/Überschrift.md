@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Überschrift
 
-Dieser Code erstellt eine Simple Überschrift mit dem Text "Meine Website"
+Dieser Code erstellt eine simple Überschrift mit dem Text "Meine Website"
 
 ```
 Erstelle x als Überschrift

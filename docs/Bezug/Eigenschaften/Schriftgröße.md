@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | fontSize    | Nummer           |
 | Mögliche Eingaben | Jede Mögliche Nummer | Nummer           |
+
+## Beispiel
+```
+Setze die Schriftgröße von x auf 42
+```

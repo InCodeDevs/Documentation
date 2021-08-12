@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | margin    | Number           |
 | Mögliche Eingaben | Jede Nummer | Number           |
+
+## Beispiel
+```
+Setze den Abstand von x auf 42
+```

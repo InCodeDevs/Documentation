@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | borderStyleTop    | InCode-Wert           |
 | Mögliche Eingaben | nichts, versteckt, gepunktet, gestrichelt, solide, doppelt, gerillt, 3d, eingesetzt, draufgelegt | InCode-Wert           |
+
+## Beispiel
+```
+Setze den Umrandungsstil-Oben von x auf solide
+```

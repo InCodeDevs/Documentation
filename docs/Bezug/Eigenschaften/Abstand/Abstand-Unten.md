@@ -10,3 +10,8 @@ Eigenschaften
 | ----              | ----              | --------------------- |
 | CSS-Eigenschaft   | marginBottom    | Number           |
 | Mögliche Eingaben | Jede Nummer | Number           |
+
+## Beispiel
+```
+Setze den Abstand-Unten von x auf 42
+```

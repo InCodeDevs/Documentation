@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Was ist InCode
 
-InCode ist eine Programmiersprache die von Grund auf für Anfänger entwickelt wurde. Wir haben bei der Entwicklung auf eine einfach zu verstehende Syntax großen
+InCode ist eine Programmiersprache, die von Grund auf für Anfänger entwickelt wurde. Wir haben bei der Entwicklung auf eine einfach zu verstehende Syntax großen
 Wert gelegt.
 
 ## Beispiele
