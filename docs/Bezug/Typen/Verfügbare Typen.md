@@ -19,3 +19,4 @@ Verfügbare Typen:
 - [Video](/docs/Bezug/Typen/Video)
 - [Ton](/docs/Bezug/Typen/Ton)
 - [Fenster](/docs/Bezug/Typen/Fenster)
+- [Methode](/docs/Bezug/Typen/Methode)
