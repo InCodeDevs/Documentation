@@ -29,5 +29,3 @@ Erstelle xGedrückt als Methode
 ### Ergebnis
 
 <iframe src="https://craftions.net/incode/preview.html?code=bGV0IHggPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdidXR0b24nKQp4LmlubmVyVGV4dCA9ICJLbGljayBtaWNoIgpkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKHgpCnguc2V0QXR0cmlidXRlKCdvbmNsaWNrJywgJ3hHZWRy/GNrdCgpJykKZnVuY3Rpb24geEdlZHL8Y2t0KCkKewphbGVydCgiSGFsbG8gV2VsdCIpCn0K"></iframe>
-
-[Weitere Beispiele](/docs/Beispiele/Weitere)
