@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Setze
 
-Der "Setze" Befehl benötigt sieben Parmater.
+Der "Setze" Befehl benötigt sieben Parameter.
 
 ```
 Setze den [Eigenschaft] von [Variable] auf [Wert]
@@ -12,3 +12,9 @@ Setze den [Eigenschaft] von [Variable] auf [Wert]
 ```
 
 [Liste aller verfügbaren Eigenschaften](/docs/Bezug/Eigenschaften/Verfügbare%20Eigenschaften)
+
+## Beispiel
+
+```
+Setze den Text von x auf "Hallo Welt"
+```

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Erstelle
 
-Der "Erstelle" Befehl benötigt einen oder drei Parmater.
+Der "Erstelle" Befehl benötigt einen oder drei Parameter.
 
 ## Ein Parameter
 
@@ -21,3 +21,10 @@ Erstelle x als [Typ]
 ```
 
 [Liste aller verfügbaren Typen](/docs/Bezug/Typen/Verfügbare%20Typen)
+
+## Beispiel
+
+```
+Erstelle x als Knopf    // Ein Knopf
+Erstelle y              // Eine Variable ohne Typ.
+```
