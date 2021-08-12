@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Einfache Sprache',
+    Svg: require('../../static/img/incode-v7.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Die InCode Sprache ist von Grund auf einfach gestalltet, sodass jeder sie sofort lesen und verstehen kann.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Mächtiger Editor',
+    Svg: require('../../static/img/code-editor.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Der InCode Editor ist sehr mächtig, du kannst deine Website sowohl mit <code>Code</code> entwickeln als auch mit <code>Blöcken</code>!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Viele Tutorials',
+    Svg: require('../../static/img/tutorials.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Du kannst mit Tutorials sowohl in Video- als auch in Textform lernen.
       </>
     ),
   },
