@@ -24,14 +24,14 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Dokumentation',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/InCodeDevs/InCode-Documentation',
           label: 'GitHub',
           position: 'right',
-        },
+        }
       ],
     },
     footer: {
@@ -91,5 +91,8 @@ module.exports = {
         },
       },
     ],
+  ],
+  plugins: [
+    require.resolve('@cmfcmf/docusaurus-search-local')
   ],
 };
